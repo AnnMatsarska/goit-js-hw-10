@@ -2,13 +2,9 @@ img {
   max-width: 100%;
 }
 
-.loader {
+/* .is-hidden {
   display: none;
-}
-
-.error {
-  display: none;
-}
+} */
 
 .breed-select {
   visibility: hidden;
